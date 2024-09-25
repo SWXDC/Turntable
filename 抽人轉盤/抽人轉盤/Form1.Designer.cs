@@ -28,12 +28,62 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            Start = new Button();
+            Result = new Label();
+            SettingsButton = new Button();
+            SuspendLayout();
+            // 
+            // Start
+            // 
+            Start.BackColor = SystemColors.Control;
+            Start.Font = new Font("Microsoft JhengHei UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 136);
+            Start.Location = new Point(576, 378);
+            Start.Name = "Start";
+            Start.Size = new Size(191, 47);
+            Start.TabIndex = 0;
+            Start.Text = "開始";
+            Start.UseVisualStyleBackColor = false;
+            Start.Click += button1_Click;
+            // 
+            // Result
+            // 
+            Result.BorderStyle = BorderStyle.FixedSingle;
+            Result.Font = new Font("Microsoft JhengHei UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 136);
+            Result.Location = new Point(267, 52);
+            Result.Name = "Result";
+            Result.Size = new Size(500, 250);
+            Result.TabIndex = 1;
+            Result.Text = "輸出結果 : ";
+            Result.Click += label1_Click;
+            // 
+            // SettingsButton
+            // 
+            SettingsButton.Font = new Font("Microsoft JhengHei UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 136);
+            SettingsButton.Location = new Point(12, 402);
+            SettingsButton.Name = "SettingsButton";
+            SettingsButton.Size = new Size(80, 30);
+            SettingsButton.TabIndex = 2;
+            SettingsButton.Text = "設定";
+            SettingsButton.UseVisualStyleBackColor = true;
+            SettingsButton.Click += SettingsButton_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(SettingsButton);
+            Controls.Add(Result);
+            Controls.Add(Start);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button Start;
+        private Label Result;
+        private Button SettingsButton;
     }
 }

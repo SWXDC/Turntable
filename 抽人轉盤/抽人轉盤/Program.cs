@@ -13,5 +13,6 @@ namespace 抽人轉盤
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }
+
     }
 }

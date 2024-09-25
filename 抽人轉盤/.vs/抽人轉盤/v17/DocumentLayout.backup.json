@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\programming\\Project\\\u62BD\u4EBA\u8F49\u76E4\\Turntable\\\u62BD\u4EBA\u8F49\u76E4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}|\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4.csproj|d:\\programming\\project\\\u62BD\u4EBA\u8F49\u76E4\\turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}|\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4.csproj|solutionrelative:\u62BD\u4EBA\u8F49\u76E4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}|\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4.csproj|d:\\programming\\project\\\u62BD\u4EBA\u8F49\u76E4\\turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}|\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4.csproj|solutionrelative:\u62BD\u4EBA\u8F49\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}|\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4.csproj|d:\\programming\\project\\\u62BD\u4EBA\u8F49\u76E4\\turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}|\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4.csproj|solutionrelative:\u62BD\u4EBA\u8F49\u76E4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}|\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4.csproj|d:\\programming\\project\\\u62BD\u4EBA\u8F49\u76E4\\turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}|\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4.csproj|solutionrelative:\u62BD\u4EBA\u8F49\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\Project\\\u62BD\u4EBA\u8F49\u76E4\\Turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\Program.cs",
+              "RelativeDocumentMoniker": "\u62BD\u4EBA\u8F49\u76E4\\Program.cs",
+              "ToolTip": "D:\\programming\\Project\\\u62BD\u4EBA\u8F49\u76E4\\Turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\Program.cs",
+              "RelativeToolTip": "\u62BD\u4EBA\u8F49\u76E4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:52:55.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\programming\\Project\\\u62BD\u4EBA\u8F49\u76E4\\Turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\Form2.cs",
+              "RelativeDocumentMoniker": "\u62BD\u4EBA\u8F49\u76E4\\Form2.cs",
+              "ToolTip": "D:\\programming\\Project\\\u62BD\u4EBA\u8F49\u76E4\\Turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\Form2.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "\u62BD\u4EBA\u8F49\u76E4\\Form2.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:48:02.61Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programming\\Project\\\u62BD\u4EBA\u8F49\u76E4\\Turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\Form1.cs",
+              "RelativeDocumentMoniker": "\u62BD\u4EBA\u8F49\u76E4\\Form1.cs",
+              "ToolTip": "D:\\programming\\Project\\\u62BD\u4EBA\u8F49\u76E4\\Turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\Form1.cs",
+              "RelativeToolTip": "\u62BD\u4EBA\u8F49\u76E4\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:16:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "D:\\programming\\Project\\\u62BD\u4EBA\u8F49\u76E4\\Turntable\\\u62BD\u4EBA\u8F49\u76E4\\\u62BD\u4EBA\u8F49\u76E4\\Form1.cs",
               "RelativeDocumentMoniker": "\u62BD\u4EBA\u8F49\u76E4\\Form1.cs",

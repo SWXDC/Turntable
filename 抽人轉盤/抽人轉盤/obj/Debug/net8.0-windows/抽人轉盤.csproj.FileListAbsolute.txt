@@ -14,3 +14,5 @@ D:\programming\Project\抽人轉盤\Turntable\抽人轉盤\抽人轉盤\obj\Debu
 D:\programming\Project\抽人轉盤\Turntable\抽人轉盤\抽人轉盤\obj\Debug\net8.0-windows\抽人轉盤.pdb
 D:\programming\Project\抽人轉盤\Turntable\抽人轉盤\抽人轉盤\obj\Debug\net8.0-windows\抽人轉盤.genruntimeconfig.cache
 D:\programming\Project\抽人轉盤\Turntable\抽人轉盤\抽人轉盤\obj\Debug\net8.0-windows\ref\抽人轉盤.dll
+D:\programming\Project\抽人轉盤\Turntable\抽人轉盤\抽人轉盤\obj\Debug\net8.0-windows\抽人轉盤.sourcelink.json
+D:\programming\Project\抽人轉盤\Turntable\抽人轉盤\抽人轉盤\obj\Debug\net8.0-windows\抽人轉盤.Form2.resources
