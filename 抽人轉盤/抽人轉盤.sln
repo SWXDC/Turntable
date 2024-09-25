@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽人轉盤", "抽人轉盤\抽人轉盤.csproj", "{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA536E68-9A2F-4400-83D6-C9789E6DB1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {886DB7D9-CC7D-48B1-BAAB-88FB32097E40}
+	EndGlobalSection
+EndGlobal
