@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("抽人轉盤")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c88613d73d8db24752ba75ced5072ffd2cab023")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d061ecfd5b5a914e53fabcc5cc417e7a006db7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("抽人轉盤")]
 [assembly: System.Reflection.AssemblyTitleAttribute("抽人轉盤")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
